@@ -11,7 +11,7 @@ def operac(n, m):
     return resultado
 
 
-variable_de_texto = "Hola"a
+variable_de_texto = "Hola"
 
 hola("AHHHHHHHHHHHHHHH")
 hola(variable_de_texto)
