@@ -5,12 +5,12 @@ def opera(n, m):
      resultado = n + m
      return resultado
 
-
 def operac(n, m):
     resultado = n - m
     return resultado
 
-
+lista = ["Hola", 123]
+print("\n\n", lista[1], "\n\n")
 variable_de_texto = "Hola"
 
 hola("AHHHHHHHHHHHHHHH")
